@@ -7,5 +7,11 @@ public class add {
 		int b=20;
 		int c=a+b;
 		System.out.println(" sum =" + c);
+
+
+                int a=50;
+		int b=60;
+		int f=a+b;
+		System.out.println(" sum =" + f);
 	}
 }
